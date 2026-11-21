@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "a53377f2-b7c9-4847-925a-268d37c3c9f8",
+      "username": "Baltox21",
+      "passwordHash": "$2a$10$mU9cbm.1tzF07NSewFBB7uw6GFd7ATclfeMf94VNwbzVli7cQ7EBm",
+      "city": "Buenos Aires",
+      "friendCode": "POSTAL-1D7023",
+      "createdAt": "2026-11-18T05:31:19.689Z"
+    },
+    {
+      "id": "9c1fb578-6032-4a37-8c55-fd2ecde48a72",
+      "username": "prueba",
+      "passwordHash": "$2a$10$1LIDBlrLgW/0OFLqCFXBOuDVVv.ks4cSWQ.6d9qRGAhymeoPFVOsC",
+      "city": "Buenos Aires",
+      "friendCode": "POSTAL-1581D0",
+      "createdAt": "2026-11-18T05:44:26.384Z"
+    }
+  ],
+  "friendships": [
+    {
+      "userA": "9c1fb578-6032-4a37-8c55-fd2ecde48a72",
+      "userB": "a53377f2-b7c9-4847-925a-268d37c3c9f8",
+      "createdAt": "2026-11-18T16:52:07.933Z"
+    }
+  ],
+  "letters": [],
+  "friendRequests": []
+}
